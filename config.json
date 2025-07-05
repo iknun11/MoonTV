@@ -81,5 +81,9 @@
       "api": " https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
     }
+    "玉兔": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
+    }
   }
 }
